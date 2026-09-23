@@ -1,1 +1,3 @@
 # KnowledgeBaseForSWRLLM
+
+SecretCode - Stand
